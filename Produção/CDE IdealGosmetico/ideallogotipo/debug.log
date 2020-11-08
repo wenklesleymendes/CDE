@@ -1,0 +1,46 @@
+[0828/183415.818:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/183416.310:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/183416.437:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/183416.585:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/183418.176:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/183420.829:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/183421.326:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/183421.449:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/183421.605:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/184837.984:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0828/184838.228:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0828/185051.882:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/185052.780:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/185052.893:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/185513.980:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0828/185514.148:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0828/193642.400:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(77,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(99,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0828/193924.731:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[0828/200557.092:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/200604.666:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/200604.697:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/200609.681:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/200609.713:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/200614.697:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/200614.728:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/200706.789:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/200707.836:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/201843.292:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/201843.322:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/203629.079:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0828/204745.038:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/205521.287:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0828/211955.018:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0828/223708.427:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
